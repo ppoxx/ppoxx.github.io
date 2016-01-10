@@ -1,0 +1,39 @@
+[
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://localhost:4000/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About RT 76 Bree",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "Members of RT 76 Bree."
+    }
+  
+
+  
+
+  
+
+]

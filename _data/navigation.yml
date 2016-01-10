@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Program
+  url: /articles/
+
+- title: Registration
+  url: /blog/
+
+- title: Search
+  url: /search/
