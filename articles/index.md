@@ -6,6 +6,8 @@ search_omit: true
 ---
 # September 16-17-18 2016
 
+## Price : € 375,-
+
 ## Early bird special : thursday sept 15
 -  Light Lunch @
 -  Gin tasting: selection of the finest Gins Belgium has to offer
