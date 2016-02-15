@@ -30,3 +30,6 @@ search_omit: true
   
 ## Sunday sept 18
 * Farewell brunch @ [Mussenburghof](http://users.skynet.be/mussenburghof/welkom.html)
+* 
+
+**Price for the total package : € 375,-**
