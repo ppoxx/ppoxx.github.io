@@ -10,7 +10,7 @@ image:
 #### Organising comite for the Euromeeting:  
 {% highlight yaml %}
 
-Dries Peeters : contactinfo etc
+Dries Peeters : +32 498 92 59 41 / dries@peeterscv.be
 Timothy Verhofstede
 Philippe Brusten
 
