@@ -27,8 +27,8 @@ search_omit: true
 * Breakfast
 * Official visit to the city hall of Bree
 * Lunch @ [Pollismolen](http://www.pollismolen.be/)
-* Guided visit of brewery [Martens](http://www.martens.be/en/)
-* Evening: Gala @ [Brewery Museum](http://www.bocholterbrouwerijmuseum.be/)
+* Guided visit of brewery  [Cornelissen](http://www.brouwerijcornelissen.be/)
+* Evening: Gala @ [Sentower Park](http://www.sentowerpark.com/en/home)
   
 ## Sunday sept 18
 * Farewell brunch @ [Mussenburghof](http://users.skynet.be/mussenburghof/welkom.html)
